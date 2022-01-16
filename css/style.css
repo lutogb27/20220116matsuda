@@ -1,0 +1,47 @@
+ul {
+  list-style: none;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.header__float {
+  overflow: hidden;
+  clear: both;
+  line-height: 10px;
+  color: DarkBlue;
+}
+
+.header__float h1 {
+  float: left;
+  font-size: 25px;
+}
+
+.header__float nav {
+  float: right;
+}
+
+.header__float nav ul li {
+  float: left;
+  margin-left: 20px;
+  left: -50px;
+}
+
+.sample-img {
+  width: 700px;
+  height: 500px;
+  position: relative;
+  top: 100px;
+  left: 300px;
+}
+
+.box {
+  width: 1000px;
+  height: 150px;
+  background: Navy;
+  margin-top: 0px;
+}
+
+p {
+  font-size: 60px;
+  margin-bottom: 0px;
+}
