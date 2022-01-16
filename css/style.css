@@ -7,7 +7,7 @@ ul {
 .header__float {
   overflow: hidden;
   clear: both;
-  line-height: 10px;
+  line-height: 20px;
   color: DarkBlue;
 }
 
@@ -27,17 +27,18 @@ ul {
 }
 
 .sample-img {
-  width: 700px;
-  height: 500px;
+  margin: 0 0 0 auto;
+  width: 800px;
+  height: 600px;
   position: relative;
-  top: 100px;
-  left: 300px;
+  top: 70px;
 }
 
 .box {
   width: 1000px;
   height: 150px;
   background: Navy;
+  margin-right: auto;
   margin-top: 0px;
 }
 
